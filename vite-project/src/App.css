@@ -1,0 +1,25 @@
+.Droplist{
+    border: 2px solid yellow;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    gap: 50px;
+    margin: auto;
+  }
+  .box1,.box2{
+    border: 2px solid red;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+  }
+  ul{
+    list-style: none;
+  }
+   button{
+    width: fit-content;
+    height: fit-content;
+    color: #fff;
+    font-weight: 800;
+    background-color: blue;
+    letter-spacing: 1px;
+  }
